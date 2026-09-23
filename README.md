@@ -16,3 +16,20 @@ A web-based management system for a wholesale fancy shop.
 - Node.js
 - Express.js
 - MongoDB
+
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Product Management
+![Product Management](screenshots/products.png)
+
+### Supplier Management
+![Supplier Management](screenshots/suppliers.png)
+
+### Invoice Management
+![Invoice Management](screenshots/invoices.png)
