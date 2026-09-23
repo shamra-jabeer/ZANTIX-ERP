@@ -20,16 +20,16 @@ A web-based management system for a wholesale fancy shop.
 ## Screenshots
 
 ### Login
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Product Management
-![Product Management](screenshots/products.png)
+![Product Management](Screenshots/products.png)
 
 ### Supplier Management
-![Supplier Management](screenshots/suppliers.png)
+![Supplier Management](Screenshots/suppliers.png)
 
 ### Invoice Management
-![Invoice Management](screenshots/invoices.png)
+![Invoice Management](Screenshots/invoices.png)
